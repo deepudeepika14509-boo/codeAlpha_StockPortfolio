@@ -8,7 +8,7 @@
          3.Update stock information.
          4.Delete stock records.
          5.Calculate the total investment amount.
-3. Technologies Used
+3. Technologies Used:
      Programming Language: Python
      Concepts: Variables, Lists, Dictionaries, Functions, Loops and Conditional Statements.
 4. Working Process
