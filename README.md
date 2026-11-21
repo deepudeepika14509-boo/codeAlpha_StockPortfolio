@@ -27,19 +27,18 @@
          Quantity: 5
          Purchase Price: ₹3,500
          Total Investment = 5 × 3,500 = ₹17,500.
-
 4. key Process:
-  1. Add Stock:
+    1. Add Stock:
        Users can add new stocks to their portfolio by entering the stock name, stock symbol, quantity, and purchase price.
-  2. View Portfolio:
+    2. View Portfolio:
        The application displays all the stocks available in the portfolio along with their details.
-  3. Update Stock Details:
+    3. Update Stock Details:
        Users can modify existing stock information, such as the number of shares and purchase price.
-  4. Delete Stock:
+    4. Delete Stock:
        Users can remove unwanted stock records from their portfolio.
-  5. Calculate Total Investment
+    5. Calculate Total Investment
        The application automatically calculates the total investment amount based on the available stock records.
-  6. User-Friendly Interface
+    6. User-Friendly Interface
        The project provides a simple and easy-to-understand interface that allows users to manage their portfolio without difficulty.
 
 5. Technologies Used:
