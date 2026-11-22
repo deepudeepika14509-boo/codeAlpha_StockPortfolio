@@ -65,7 +65,43 @@ Step 6: Calculate Investment
 Step 7: Exit
     The user can exit the application after completing the required operations.
 
-7. Advantages:
+7.Sample output:
+===== STOCK PORTFOLIO =====
+1. Add Stock
+2. View Portfolio
+3. Exit
+
+Enter your choice: 1
+Enter stock name: TCS
+Enter quantity: 10
+Enter price per share: 3500
+
+Stock added successfully!
+===== STOCK PORTFOLIO =====
+1. Add Stock
+2. View Portfolio
+3. Exit
+
+Enter your choice: 2
+
+----- STOCK PORTFOLIO -----
+Stock Name: TCS
+Quantity: 10
+Price: 3500.0
+Total Value: 35000.0
+-------------------------
+
+Total Investment Value: 35000.0
+
+===== STOCK PORTFOLIO =====
+1. Add Stock
+2. View Portfolio
+3. Exit
+
+Enter your choice: 3
+
+Thank you for using Stock Portfolio!
+8. Advantages:
    - Easy management of stock investment records.
    - Reduces manual calculation work.
    - Provides organized stock information.
@@ -73,7 +109,7 @@ Step 7: Exit
    - Helps users understand their investment details.
    - Improves practical Python programming knowledge.
 
-8. Applications:
+9. Applications:
   This project can be useful for:
      - Students learning Python programming.
      - Beginners understanding financial applications.
@@ -81,7 +117,7 @@ Step 7: Exit
      - Educational demonstrations of portfolio management.
      - Learning basic investment calculation concepts.
 
-9. Future Enhancements:
+10. Future Enhancements:
  The project can be improved by adding advanced features such as:
     - Real-time stock market price integration.
     - Graphical User Interface (GUI).
